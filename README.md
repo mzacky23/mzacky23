@@ -4,8 +4,6 @@
 
 <h2 align="left">Socials :</h2>
 
-###
-
 <div align="left">
   <a href="https://www.instagram.com/zacky.a_02/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
@@ -15,11 +13,8 @@
   </a>
 </div>
 
-###
 
 <h2 align="left">Tech Stack :</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
