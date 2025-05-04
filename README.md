@@ -4,14 +4,12 @@
 
 <h2 align="left">Socials :</h2>
 
-<div align="left">
   <a href="https://www.instagram.com/zacky.a_02/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-zacky-abdillah-358459285/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
-</div>
 
 
 <h2 align="left">Tech Stack :</h2>
