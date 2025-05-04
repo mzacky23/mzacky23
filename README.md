@@ -1,8 +1,6 @@
 ![Muhammad Zacky](img/github-header-image.png)
 
-## Hi Everyone, I'm Muhammad Zacky 👋
-
-<h2 align="left">Socials :</h2>
+## Socials
 
 <div align="left">
   <a href="https://www.instagram.com/zacky.a_02/" target="_blank">
@@ -44,8 +42,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/mzacky23/mzacky23/output/snake.svg" alt="Snake animation" />
-
-###
